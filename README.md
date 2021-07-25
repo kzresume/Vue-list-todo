@@ -1,9 +1,8 @@
 # todo
 # project implemented through the course
-
-npm install bootstrap
-npm install --save @fortawesome/fontawesome-free
-npm install
+##npm install
+`npm install bootstrap`
+##npm install --save @fortawesome/fontawesome-free
 npm run serve
 npm run build
 npm run lint
